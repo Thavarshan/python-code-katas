@@ -23,4 +23,3 @@ class StringCalculator:
     def is_negative_number(self, number: int):
         if number < 0:
             raise IllegalArgumentError('Numbers cannot be negative.')
-

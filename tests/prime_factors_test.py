@@ -26,6 +26,5 @@ class PrimeFactorsTest(unittest.TestCase):
         self.assertEqual(factors, self.generator.generate(number))
 
 
-
 if __name__ == '__main__':
     unittest.main()

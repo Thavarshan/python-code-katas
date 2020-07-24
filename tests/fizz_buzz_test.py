@@ -1,6 +1,7 @@
 from src.katas import fizz_buzz
 import unittest
 
+
 class FizzBuzzTest(unittest.TestCase):
 
     def test_it_return_fizz_for_multiples_of_three(self):

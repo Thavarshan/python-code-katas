@@ -10,6 +10,6 @@ class PrimeFactors():
 
                 number = number / divisor
 
-            divisor+=1
+            divisor += 1
 
         return factors
