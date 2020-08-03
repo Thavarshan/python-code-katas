@@ -1,6 +1,5 @@
 from src.katas.gilded_rose import gilded_rose
 import unittest
-import pprint
 
 
 class GildedRoseTest(unittest.TestCase):
