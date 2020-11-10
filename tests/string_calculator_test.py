@@ -1,5 +1,5 @@
 from src.katas import string_calculator
-from src.katas.exceptions.illegal_argument_error import IllegalArgumentError
+from src.katas.exceptions import IllegalArgumentError
 import unittest
 
 

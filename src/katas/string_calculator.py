@@ -1,4 +1,4 @@
-from .exceptions.illegal_argument_error import IllegalArgumentError
+from .exceptions import IllegalArgumentError
 import re
 
 
